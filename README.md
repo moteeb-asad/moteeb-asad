@@ -1,16 +1,6 @@
-<h1 align="center">👋 Hi, I'm Moteeb Asad</h1>
-
-<p align="center">
-  💻 Frontend & CMS Developer | 🎨 UI Engineer | 🌐 Shopify Expert  
-  <br>
-  <strong>5+ years of experience crafting scalable, SEO-optimized, user-focused web experiences</strong>
-</p>
-
----
-
 ## 🚀 About Me
 
-I'm a skilled **Frontend Developer** with a strong focus on modern **JavaScript**, **TypeScript**, and **React.js**, along with deep experience in CMS platforms like **Shopify**, **HubSpot**, and **WordPress**. I build high-performance, responsive websites using clean, scalable code and modern UI/UX practices. Whether you're launching a new product or enhancing an existing platform, I bring your ideas to life with precision, performance, and visual polish.
+Skilled **Frontend Developer** with a strong focus on modern **JavaScript**, **TypeScript**, and **React.js**, along with deep experience in CMS platforms like **Shopify**, **HubSpot**, and **WordPress**. I build high-performance, responsive websites using clean, scalable code and modern UI/UX practices. Whether you're launching a new product or enhancing an existing platform, I bring your ideas to life with precision, performance, and visual polish.
 
 ---
 
@@ -75,10 +65,4 @@ I'm a skilled **Frontend Developer** with a strong focus on modern **JavaScript*
   <strong>Email:</strong> moteeb83@gmail.com  
   <br>
   <strong>WhatsApp / Phone:</strong> +92 302 6144056  
-</p>
-
-<p align="center">
-  <a href="mailto:moteeb83@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/moteeb-asad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/moteeb-asad"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
