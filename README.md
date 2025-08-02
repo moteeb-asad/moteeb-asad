@@ -62,7 +62,7 @@ Skilled **Frontend Developer** with a strong focus on modern **JavaScript**, **T
 ## 📫 Contact Me
 
 <p>
-  <strong>Email:</strong> moteeb83@gmail.com  
+  <strong>Email:</strong> imoteeb.asad@gmail.com  
   <br>
   <strong>WhatsApp / Phone:</strong> +92 302 6144056  
 </p>
