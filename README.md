@@ -4,20 +4,16 @@
 </p>
 <hr>
 
-<h3>🧰 Tech Stack</h3>
-
-<strong>Frontend:</strong>
-<p>HTML5, CSS3, JavaScript, TypeScript, React.js, Tailwind CSS, Sass, Bootstrap, jQuery</p>
-
-<strong>CMS & Platforms:</strong>
-<p>Shopify, HubSpot, WordPress, Duda</p>
-
-<strong>Tools & Practices:</strong>
-<p>REST APIs, GitHub, Responsive Design, Performance Optimization, SEO-friendly UI</p>
+<h3>Tools & Tech</h3>
+<ul>
+  <li><strong>Frontend:</strong> JavaScript, TypeScript, React.js, Tailwind CSS, Bootstrap, jQuery, HTML5, CSS3, Sass</li>
+  <li><strong>CMS & Platforms:</strong> Shopify, HubSpot, WordPress, Duda</li>
+  <li><strong>Other Tools & Practices:</strong> REST APIs, GitHub, Responsive Design, Performance Optimization, SEO-friendly UI</li>
+</ul>
 
 <hr>
 
-<h3>💼 What I Do</h3>
+<h3>What I Do</h3>
 <ul>
   <li>Build responsive, accessible, and high-performance frontend interfaces</li>
   <li>Develop scalable React-based components and integrations</li>
@@ -28,7 +24,7 @@
 
 <hr>
 
-<h2>📫 Contact Me</h2>
+<h2>Contact Me</h2>
 <p>
   <strong>Email:</strong> <a href="mailto:imoteeb.asad@gmail.com">imoteeb.asad@gmail.com</a><br>
   <strong>WhatsApp / Phone:</strong> <a href="tel:+923026144056">+92 302 6144056</a>
