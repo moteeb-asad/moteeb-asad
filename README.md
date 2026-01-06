@@ -1,61 +1,33 @@
-## 🚀 About Me
+## About Me
 
-Skilled **Frontend Developer** with a strong focus on modern **JavaScript**, **TypeScript**, and **React.js**, along with deep experience in CMS platforms like **Shopify**, **HubSpot**, and **WordPress**. I build high-performance, responsive websites using clean, scalable code and modern UI/UX practices. Whether you're launching a new product or enhancing an existing platform, I bring your ideas to life with precision, performance, and visual polish.
-
----
-
-## 🧰 Tech Stack
-
-### 🌐 Frontend & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff" />
-</p>
-
-### 🛒 CMS Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
-</p>
+CMS-focused Frontend Developer specializing in Shopify, HubSpot, and WordPress, with hands-on experience customizing themes, integrations, and dynamic components using JavaScript and React. I build responsive, performance-driven interfaces with clean, maintainable code.
 
 ---
 
-## 🧠 What I Do
+🧰 Tech Stack
 
-### 🔹 Frontend Engineering
-- Build responsive, accessible, and SEO-optimized interfaces using **HTML5**, **CSS3**, **SASS**, and **Tailwind CSS**
-- Develop scalable frontend applications with **JavaScript**, **TypeScript**, and **React.js**, following modern design patterns
-- Integrate **REST APIs** and third-party services into dynamic, component-driven UIs
-- Convert **Figma/Adobe XD** designs into clean, production-ready code with pixel-perfect accuracy
-- Optimise for performance and cross-browser compatibility using tools like **Lighthouse** and **DevTools**
+Frontend:
+HTML5, CSS3, JavaScript, TypeScript, React.js, Tailwind CSS, Sass, Bootstrap, jQuery
 
-### 🔹 CMS Integration & Customization
-- Develop custom themes and modules for **Shopify**, **HubSpot**, and **WordPress**
-- Work with platform-specific APIs (e.g., **Storefront API**, **HubL**, **WP REST API**) to build tailored site experiences
-- Set up and configure **metafields**, **checkout extensions**, and **content models**
-- Migrate entire websites from **WooCommerce** to **Shopify** with full content and SEO continuity
+CMS & Platforms:
+Shopify, HubSpot, WordPress, Duda
 
-### 🔹 Shopify-Specific Development
-- Customize Shopify storefronts using **Liquid**, **JavaScript**, and **JSON templates**
-- Extend functionality with **Admin API** integrations for inventory, orders, and automation
-- Configure and test third-party apps, payment gateways, and theme performance enhancements
-- Handle **product imports/exports**, subscription logic, and localization needs
+Tools & Practices:
+REST APIs, GitHub, Responsive Design, Performance Optimization, SEO-friendly UI
 
-### 🔹 UI/UX Focused Development
-- Deliver intuitive user experiences through thoughtful component structure and animation (e.g., **GSAP**, **Framer Motion**)
-- Prioritise accessibility and mobile-first design
-- Maintain clean, version-controlled code with **GitHub**, supporting collaborative workflows
+---
+
+💼 What I Do
+
+Build responsive, accessible, and high-performance frontend interfaces
+
+Develop scalable React-based components and integrations
+
+Customize and extend Shopify, HubSpot, and WordPress themes/modules
+
+Integrate third-party APIs and services
+
+Convert Figma/XD designs into production-ready code
 
 ---
 
