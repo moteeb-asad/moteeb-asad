@@ -1,31 +1,21 @@
-<h2>About Me</h2>
-<p>
-  CMS-focused Frontend Developer specializing in Shopify, HubSpot, and WordPress, with hands-on experience customizing themes, integrations, and dynamic components using JavaScript and React. I build responsive, performance-driven interfaces with clean, maintainable code.
-</p>
-<hr>
+# About Me
 
-<h3>Tools & Tech</h3>
-<ul>
-  <li><strong>Frontend:</strong> JavaScript, TypeScript, React.js, Tailwind CSS, Bootstrap, jQuery, HTML5, CSS3, Sass</li>
-  <li><strong>CMS & Platforms:</strong> Shopify, HubSpot, WordPress, Duda</li>
-  <li><strong>Other Tools & Practices:</strong> REST APIs, GitHub, Responsive Design, Performance Optimization, SEO-friendly UI</li>
-</ul>
+Frontend Developer building clean, scalable web applications with **React** and **TypeScript**.  
+Focused on modern UI, maintainable architecture, and real-world product development.
 
-<hr>
+Experience with **Shopify Plus and CMS-driven platforms**, currently expanding deeper into **Next.js** and advanced React patterns.
 
-<h3>What I Do</h3>
-<ul>
-  <li>Build responsive, accessible, and high-performance frontend interfaces</li>
-  <li>Develop scalable React-based components and integrations</li>
-  <li>Customize and extend Shopify, HubSpot, and WordPress themes/modules</li>
-  <li>Integrate third-party APIs and services</li>
-  <li>Convert Figma/XD designs into production-ready code</li>
-</ul>
+---
 
-<hr>
+## 🔧 Tech Stack
 
-<h2>Contact Me</h2>
-<p>
-  <strong>Email:</strong> <a href="mailto:imoteeb.asad@gmail.com">imoteeb.asad@gmail.com</a><br>
-  <strong>WhatsApp / Phone:</strong> <a href="tel:+923026144056">+92 302 6144056</a>
-</p>
+- **Frontend:** JavaScript, TypeScript, React, Tailwind CSS, HTML, CSS  
+- **Frameworks & Platforms:** Next.js, Shopify Plus, HubSpot, WordPress, Duda  
+- **State & APIs:** Redux Toolkit, REST APIs  
+- **Tools:** Git, GitHub, Performance Optimization, Responsive Design
+
+---
+
+## 📫 Contact
+
+- **Email:** imoteeb.asad@gmail.com
