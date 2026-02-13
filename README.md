@@ -1,7 +1,6 @@
 # About Me
 
-Frontend Developer building clean, scalable web applications with **React** and **TypeScript**.  
-Focused on modern UI, maintainable architecture, and real-world product development.
+Frontend Developer building clean, scalable web applications with **React** and **TypeScript**. Focused on modern UI, maintainable architecture, and real-world product development.
 
 Experience with **Shopify Plus and CMS-driven platforms**, currently expanding deeper into **Next.js** and advanced React patterns.
 
