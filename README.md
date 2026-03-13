@@ -1,12 +1,10 @@
-Frontend Developer building clean, scalable web applications with **React** and **TypeScript**. Focused on modern UI, maintainable architecture, and real-world product development.
-
-Experience with **Shopify Plus and CMS-driven platforms**, currently expanding deeper into **Next.js** and advanced React patterns.
-
----
+Frontend Engineer building scalable web applications and web interfaces with React, Next.js, and TypeScript.
+Focused on modern UI architecture, performance, and real-world product development.
 
 ## Tech Stack
 
-- **Frontend:** JavaScript, TypeScript, React, Tailwind CSS, HTML, CSS  
-- **Frameworks & Platforms:** Next.js, Shopify Plus, HubSpot, WordPress, Duda  
-- **State & APIs:** Redux Toolkit, REST APIs  
-- **Tools:** Git, GitHub, Performance Optimization, Responsive Design
+- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
+- **Framework:** Next.js  
+- **State & Data:** Redux Toolkit, React Query, REST APIs  
+- **Platforms:** Shopify Plus, HubSpot CMS, WordPress, Duda  
+- **Tools:** Git, GitHub
