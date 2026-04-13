@@ -3,8 +3,6 @@ Focused on modern UI architecture, performance, and real-world product developme
 
 ## Tech Stack
 
-- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
-- **Framework:** Next.js  
-- **State & Data:** Redux Toolkit, React Query, REST APIs  
-- **Platforms:** Shopify Plus, HubSpot CMS, WordPress, Duda  
-- **Tools:** Git, GitHub
+React, TypeScript, Tailwind • Next.js (App Router, SSR/SSG, Server Components) • Redux Toolkit, React Query  
+REST, GraphQL • Core Web Vitals, Accessibility (a11y), Lazy Loading • Jest, RTL • OpenAI API  
+Shopify Plus, HubSpot, WordPress • Vercel, CI/CD • Git, GitHub
