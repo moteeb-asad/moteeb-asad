@@ -3,6 +3,6 @@ Focused on modern UI architecture, performance, and real-world product developme
 
 ## Tech Stack
 
-React, TypeScript, TailwindCSS, Next.js (App Router, SSR/SSG, Server Components), Redux Toolkit, React Query
-Supabase (PostgreSQL), REST/GraphQL, Core Web Vitals, Accessibility (a11y), Lazy Loading, Jest, RTL, OpenAI API
-Shopify Plus, HubSpot, WordPress, Vercel, CI/CD, Git, GitHub
+- React, TypeScript, TailwindCSS, Next.js (App Router, SSR/SSG, Server Components), Redux Toolkit, React Query
+- Supabase (PostgreSQL), REST/GraphQL, Core Web Vitals, Accessibility (a11y), Lazy Loading, Jest, RTL, OpenAI API
+- Shopify Plus, HubSpot, WordPress, Vercel, CI/CD, Git, GitHub
