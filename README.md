@@ -1,8 +1,9 @@
-Frontend Engineer building scalable web applications and web interfaces with React, Next.js, and TypeScript.
-Focused on modern UI architecture, performance, and real-world product development.
+Full stack developer (frontend-focused) building web applications and dashboards with Next.js, React and TypeScript, using Supabase and PostgreSQL on the backend.
 
-## Tech Stack
+### Tech stack
+- **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS
+- **Data & state:** React Query, Redux Toolkit, Zod, React Hook Form
+- **Backend:** Supabase, PostgreSQL, Firebase, REST APIs
+- **Tools:** Git, GitHub Actions, Vercel, Shopify
 
-- React, TypeScript, TailwindCSS, Next.js (App Router, SSR/SSG, Server Components), Redux Toolkit, React Query
-- Supabase (PostgreSQL), REST/GraphQL, Core Web Vitals, Accessibility (a11y), Lazy Loading, Jest, RTL, OpenAI API
-- Shopify Plus, HubSpot, WordPress, Vercel, CI/CD, Git, GitHub
+[Portfolio](https://moteebasad.dev) · [LinkedIn](https://www.linkedin.com/in/moteeb-asad/)
